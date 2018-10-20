@@ -1,2 +1,2 @@
-# C-Advanced
+# CSharp-Advanced
 C# Advanced (SoftUni course)
