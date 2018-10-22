@@ -11,6 +11,5 @@
 	<li><a href=" "> Exception Handling </a></li>
 	<li><a href=" "> Multidimensional Arrays </a></li>
 	<li><a href=" "> Functional Programming </a></li>
-	<li><a href=" ">  </a></li>
 	<li><a href=" "> ExamPreparation </a></li>
 </ul>
