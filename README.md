@@ -7,9 +7,9 @@
 <ul>
 	<li><a href="https://github.com/Gandjurov/CSharp-Advanced/tree/master/01.%20Stacks%20and%20Queues">Stacks and Queues</a></li>
 	<li><a href="https://github.com/Gandjurov/CSharp-Advanced/tree/master/02.%20Sets/Sets"> Sets and Dictionaries </a></li>
-	<li><a href=" "> Files And Directories </a></li>
-	<li><a href=" "> Exception Handling </a></li>
-	<li><a href=" "> Multidimensional Arrays </a></li>
+	<li><a href="https://github.com/Gandjurov/CSharp-Advanced/tree/master/03.%20FilesAndDirectories"> Files And Directories </a></li>
+	<li><a href="https://github.com/Gandjurov/CSharp-Advanced/tree/master/04.%20ExceptionHandling"> Exception Handling </a></li>
+	<li><a href="https://github.com/Gandjurov/CSharp-Advanced/tree/master/05.%20Multidimensional%20arrays"> Multidimensional Arrays </a></li>
 	<li><a href=" "> Functional Programming </a></li>
 	<li><a href=" "> ExamPreparation </a></li>
 </ul>
