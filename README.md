@@ -10,6 +10,6 @@
 	<li><a href="https://github.com/Gandjurov/CSharp-Advanced/tree/master/03.%20FilesAndDirectories"> Files And Directories </a></li>
 	<li><a href="https://github.com/Gandjurov/CSharp-Advanced/tree/master/04.%20ExceptionHandling"> Exception Handling </a></li>
 	<li><a href="https://github.com/Gandjurov/CSharp-Advanced/tree/master/05.%20Multidimensional%20arrays"> Multidimensional Arrays </a></li>
-	<li><a href=" "> Functional Programming </a></li>
+	<li><a href="https://github.com/Gandjurov/CSharp-Advanced/tree/master/06.%20Functional%20Programming"> Functional Programming </a></li>
 	<li><a href=" "> ExamPreparation </a></li>
 </ul>
